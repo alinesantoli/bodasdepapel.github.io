@@ -1,0 +1,50 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(174, 241, 248);
+}
+img {
+  width: 70%;
+  height: auto;
+  padding: 5px; 
+}
+
+h1 {
+  background-image: url(https://thumbs.dreamstime.com/b/watercolor-paper-texture-paper-texture-use-as-background-watercolor-paper-texture-paper-texture-use-as-background-231145666.jpg);
+  opacity: 70%;
+  height: 100px;
+  padding: 50px;
+  font-family: cursive;
+  font-size: 50px;
+  color:darkblue; 
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+  padding: 50px;
+  color:darkblue;
+
+}
+
+h3 {
+  text-align: center;
+  background-color: cornflowerblue;
+  color:rgb(174, 241, 248);
+  padding: 5px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p{
+  text-align: center;
+  color:rgb(32, 88, 230)
+}
+
+spam {
+  color:darkblue;
+}
