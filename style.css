@@ -12,7 +12,7 @@ h1 {
   background-image: url(https://thumbs.dreamstime.com/b/watercolor-paper-texture-paper-texture-use-as-background-watercolor-paper-texture-paper-texture-use-as-background-231145666.jpg);
   opacity: 70%;
   height: 100px;
-  padding: 50px;
+  padding: 10px;
   font-family: cursive;
   font-size: 50px;
   color:darkblue; 
@@ -21,7 +21,7 @@ h1 {
 
 h2 {
   text-align: right;
-  padding: 50px;
+  padding: 10px;
   color:darkblue;
 
 }
